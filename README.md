@@ -10,6 +10,7 @@
 - 26.10.16 
     - 【笔记】继续学习queue并新增BFS相关笔记
     - 【AC】 luogu P1443 - 基于 queue 和结构体的 BFS 实现
+    - 【AC】 luogu P1540 - 基于 queue 完成 FIFO 队列模拟
 
 - 26.10.15   学习规范commit提示词
     - 【笔记】继续学习queue并完善相关笔记
