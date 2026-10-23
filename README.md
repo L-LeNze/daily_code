@@ -7,6 +7,10 @@
 - 编辑器：VS Code 
 
 ### 提交记录日志：
+- 26.10.23
+    - 【笔记】 开始学习stack
+    - 【AC】 luogu B3614 - stack模板题
+    - 【AC】 luogu P1739 - stack匹配法
 - 26.10.19
     - 【AC】 luogu P1451 - queue类型题，注意二维数组的[行][列]关系
     
