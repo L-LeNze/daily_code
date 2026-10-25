@@ -9,8 +9,10 @@
 ### 提交记录日志：
 - 26.10.25
     - 【AC】 luogu P1449 - stack
+    - 【笔记】 开始学习集合（set）
+    - 【AC】 luogu P1059 - 用 set **自动去重**和**排序**
 - 26.10.23
-    - 【笔记】 开始学习stack
+    - 【笔记】 开始学习栈（stack）
     - 【AC】 luogu B3614 - stack模板题
     - 【AC】 luogu P1739 - stack匹配法
 - 26.10.19
