@@ -7,6 +7,8 @@
 - 编辑器：VS Code 
 
 ### 提交记录日志：
+- 26.10.25
+    - 【AC】 luogu P1449 - stack
 - 26.10.23
     - 【笔记】 开始学习stack
     - 【AC】 luogu B3614 - stack模板题
