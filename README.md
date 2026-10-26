@@ -7,6 +7,9 @@
 - 编辑器：VS Code 
 
 ### 提交记录日志：
+- 26.10.26
+    - 【笔记】 开始学习映射（map）
+    - 【AC】 luogu P1918 - map 用`map.count`查询是否存在速度较快，注意 key - values 之间的关系
 - 26.10.25
     - 【AC】 luogu P1449 - stack
     - 【笔记】 开始学习集合（set）
