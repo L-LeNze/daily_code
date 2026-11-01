@@ -7,6 +7,10 @@
 - 编辑器：VS Code 
 
 ### 提交记录日志：
+- 26.10.31
+    - 【笔记】 补充 `sort` 相关笔记
+    - 【AC】luogu P1093 - sort排序，用 结构体 命名 数组 ， 自定义`cmp`函数
+    - 【AC】luogu P1781 - sort排序，用 string 处理超长数字
 - 26.10.26
     - 【笔记】 开始学习映射（map）
     - 【AC】 luogu P1918 - map 用`map.count`查询是否存在速度较快，注意 key - values 之间的关系
